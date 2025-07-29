@@ -14,7 +14,7 @@ This project aims to analyze and visualize unemployment trends across India by a
 6. Min Unemployed in Year
 7. Max Unemployed in Year
 8. Most Unemployed by range of age
-- <a ">View Dashboard</a>
+- <a href= "https://github.com/Mayuri2234/Unemployement-Dashboard/blob/main/Screenshot%20(15).png">View Dashboard</a>
 
 ## Process
 •	Collected unemployment data from public sources (e.g., data.gov.in, Kaggle).
@@ -32,7 +32,8 @@ This project aims to analyze and visualize unemployment trends across India by a
 •	Published and tested the dashboard for clarity, usability, and insight delivery.
 
 ## Dashboard
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/cf6f5a5f-e633-4419-9512-bcde8333ad83" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/564bb09d-8917-4d2e-9165-68be38558932" />
+
 
 ## Project Insights
 Overall Trends:
